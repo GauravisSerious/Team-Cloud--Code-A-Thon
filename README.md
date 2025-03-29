@@ -104,17 +104,6 @@ localconnect/
    - View platform statistics
    - Moderate forum content
 
-## Support and Contribution
 
-For support or to contribute to the project, please contact us at [your-email@example.com](mailto:your-email@example.com).
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- [Bootstrap](https://getbootstrap.com/) for the responsive UI components
-- [Font Awesome](https://fontawesome.com/) for icons
-- All contributors who have helped build and improve LocalConnect 
 >>>>>>> b01a5c1 (first commit)
